@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ts2sls': Two-sample two-stage least squares (TS2SLS) regression Use ts2sls With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ts2sls.ado
+f ts2sls.pkg
