@@ -1,6 +1,8 @@
 # ts2sls
 Two-sample two-stage least squares (TS2SLS) regression Use ts2sls With STATA 18
 
+https://www.youtube.com/watch?v=pE1PKDmbvhU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
